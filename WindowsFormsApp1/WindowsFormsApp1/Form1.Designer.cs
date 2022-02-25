@@ -90,9 +90,9 @@ namespace WindowsFormsApp1
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(564, 73);
+            this.button1.Location = new System.Drawing.Point(542, 73);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(151, 20);
+            this.button1.Size = new System.Drawing.Size(144, 20);
             this.button1.TabIndex = 6;
             this.button1.Text = "Guardar Alumno";
             this.button1.UseVisualStyleBackColor = true;
